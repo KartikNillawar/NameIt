@@ -7,7 +7,7 @@
 
 ## 📌About :
 
-This is a react based project intended to generate and suggest startup / project names from the keyworkds given by the user. This project is entirely built from scratch. You can see the live demo [Here]
+This is a react based project intended to generate and suggest startup / project names from the keyworkds given by the user. This project is entirely built from scratch. You can see the live demo [Here](https://kartiknillawar.github.io/NameIt/)
 
 
 ## 📌Wire Framed Diagram:
@@ -38,7 +38,7 @@ For new contibution or feature :
 ## 📌Steps to contibute :
 
 1. Fork the project:
-Fork the project from https://github.com/kaiwalyakoparkar/NameIt/
+Fork the project from https://kartiknillawar.github.io/NameIt/
 
 2. Clonning the project :
 ```git
@@ -67,4 +67,4 @@ npm deploy
 10. Wait for acceptance ! Best of luck
 
 ## 📌Contributors & Maintaiers
-[Kaiwalya Koparkar](https://kaiwalyakoparkar.github.io/)
+[Kartik Nillawar](https://kartiknillawar.github.io/NameIt/)
