@@ -1,70 +1,70 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    ⚡ Name It ⚡
+</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## 📌About :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is a react based project intended to generate and suggest startup / project names from the keyworkds given by the user. This project is entirely built from scratch. You can see the live demo [Here]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 📌Wire Framed Diagram:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src = "./doc_images/WireFrame1.png" width="500px"/>
+<img src = "./doc_images/WireFrame2.png" width="500px"/>
 
-### `npm run build`
+## 📌Structural Diagram:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src = "./doc_images/Structural.png" width="500px"/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📌Pre-requisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Basic Computer configuration
+2. Node js installed
 
-### `npm run eject`
+## 📌Contribution :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contribution to this repos are always welcome. You can alwas upgrade the UI, or fix any bug predefined in the issue section.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For new contibution or feature : 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Open a new issue describing the feature.
+2. Add feature tag to this issue.
+3. Get acceptance from the code maintainers
+4. Enjoy adding the feature
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📌Steps to contibute :
 
-## Learn More
+1. Fork the project:
+Fork the project from https://github.com/kaiwalyakoparkar/NameIt/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Clonning the project :
+```git
+git clone https://github.com/<your-user-name>/NameIt.git
+```
+3. Open the project in your desired text editor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. run the following command int terminal to see the live output
+```node
+npm start
+```
+5. Now go to the components folder and choose the component you want to add feature to.
 
-### Code Splitting
+6. after specified changes document the changes in changes.md
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+7. run the following command to generate the build folder
+```node
+npm run build
+```
+8. Now deploy the application to your copy
+```node
+npm deploy
+```
+9. Now create a pull request to the parent repository
 
-### Analyzing the Bundle Size
+10. Wait for acceptance ! Best of luck
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📌Contributors & Maintaiers
+[Kaiwalya Koparkar](https://kaiwalyakoparkar.github.io/)
